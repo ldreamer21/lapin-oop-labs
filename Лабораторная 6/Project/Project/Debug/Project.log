@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\dream\Documents\GitHub\lapin-oop-labs\Лабораторная 6\Project\Project\Source.cpp(172,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dream\Documents\GitHub\lapin-oop-labs\Лабораторная 6\Project\Project\Source.cpp(179,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dream\Documents\GitHub\lapin-oop-labs\Лабораторная 6\Project\Project\Source.cpp(186,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dream\Documents\GitHub\lapin-oop-labs\Лабораторная 6\Project\Project\Source.cpp(209,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dream\Documents\GitHub\lapin-oop-labs\Лабораторная 6\Project\Project\Source.cpp(30,23): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\dream\Documents\GitHub\lapin-oop-labs\Лабораторная 6\Project\Project\Source.cpp(29): message : во время компиляции функции-члена класс шаблон "Air2<int,double>::Air2(void)"
+C:\Users\dream\Documents\GitHub\lapin-oop-labs\Лабораторная 6\Project\Project\Source.cpp(231): message : выполняется компиляция ссылки на экземпляр шаблон функции "Air2<int,double>::Air2(void)"
+C:\Users\dream\Documents\GitHub\lapin-oop-labs\Лабораторная 6\Project\Project\Source.cpp(231): message : во время компиляции функции-члена класс шаблон "Plane<int,double>::Plane(void)"
+C:\Users\dream\Documents\GitHub\lapin-oop-labs\Лабораторная 6\Project\Project\Source.cpp(273): message : выполняется компиляция ссылки на экземпляр шаблон функции "Plane<int,double>::Plane(void)"
+C:\Users\dream\Documents\GitHub\lapin-oop-labs\Лабораторная 6\Project\Project\Source.cpp(273): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Plane<int,double>"
+C:\Users\dream\Documents\GitHub\lapin-oop-labs\Лабораторная 6\Project\Project\Source.cpp(31,17): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\dream\Documents\GitHub\lapin-oop-labs\Лабораторная 6\Project\Project\Source.cpp(35,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project.vcxproj -> C:\Users\dream\Documents\GitHub\lapin-oop-labs\Лабораторная 6\Project\Debug\Project.exe
